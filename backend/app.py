@@ -173,7 +173,3 @@ def handle_prediction():
 if __name__ == '__main__':
     # Make sure debug=False in production
     app.run(host='0.0.0.0', port=5002)
-
-
-
-
